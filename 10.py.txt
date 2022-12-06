@@ -1,0 +1,17 @@
+open terminal and perform :
+sudo apt-get install swi-prolog
+
+likes(ram,mango).
+likes(ram,mango).
+girl(semma).
+likes(bill,cindy).
+red(rose).
+save the file with .pl extension
+
+
+open terminal open the location of file saved in folder by using cd command
+and then type command
+swipl -s filename.pl
+type in terminal 
+likes(ram,mango).
+and press enter if statement is present in file it shows true otherwise false
